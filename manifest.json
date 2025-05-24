@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "AI News Summarizer",
+  "version": "1.0",
+  "description": "Summarizes trending news using AI",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "permissions": [],
+  "host_permissions": [],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
